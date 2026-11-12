@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bravo Helper</string>
+    <string name="accessibility_description">أتمتة تسجيل برافو</string>
 </resources>

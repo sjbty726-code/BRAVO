@@ -5,5 +5,5 @@
     android:accessibilityFlags="flagDefault|flagRetrieveInteractiveWindows"
     android:canPerformGestures="true"
     android:canRetrieveWindowContent="true"
-    android:description="أتمتة تسجيل برافو"
+    android:description="@string/accessibility_description"
     android:packageNames="istinara.bravocash" />
